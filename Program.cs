@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace vscode_netcore
 {
@@ -6,7 +6,7 @@ namespace vscode_netcore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Planet!");
         }
     }
 }
