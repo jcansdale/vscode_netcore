@@ -6,7 +6,7 @@ namespace vscode_netcore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Planet!");
+            Console.WriteLine("Hello, Earth!");
         }
     }
 }
